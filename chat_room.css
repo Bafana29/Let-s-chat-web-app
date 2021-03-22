@@ -1,0 +1,13 @@
+body{
+    background-image: url("background2.jpg");
+}
+h1{
+    color: aliceblue;
+}
+img{
+    width: 10%;
+}
+#logout
+{
+	font-size: 20px; float: right;
+}
